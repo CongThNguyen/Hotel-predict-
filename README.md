@@ -2,7 +2,7 @@
 
 ## Data
 
-For this assignment we will be using data collected by [Antonio, Almeida and Nunes, 2019](https://www.sciencedirect.com/science/article/pii/S2352340918315191#f0010) on hotel bookings. These data come from the booking systems of two real hotels and reflect bookings made between July 1st, 2015 through August 31st 2017. This is a large dataset (119,390 observations) and real world (i.e. messy) data set,  care will be needed to check for and to address underlying data quality issues.
+The data is collected by [Antonio, Almeida and Nunes, 2019](https://www.sciencedirect.com/science/article/pii/S2352340918315191#f0010) on hotel bookings. These data come from the booking systems of two real hotels and reflect bookings made between July 1st, 2015 through August 31st 2017. This is a large dataset (119,390 observations) and real world (i.e. messy) data set,  care will be needed to check for and to address underlying data quality issues.
 
 The data set contains the following variables:
 
